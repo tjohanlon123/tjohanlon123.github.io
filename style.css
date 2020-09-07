@@ -25,9 +25,8 @@ a {
 	color: Ivory;
 }
 
-table {
-  margin-left: auto;
-  margin-right: auto;
+th, td {
+  border: 1px solid Ivory;
 }
 
 
