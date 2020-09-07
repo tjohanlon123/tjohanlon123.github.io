@@ -21,9 +21,14 @@ img {
     max-width: 100%;
 }
 
-header.a {
+header.a:link {
 	color: Ivory;
 }
+
+header.a:visited {
+	color: Ivory;
+}
+
 
 
 
