@@ -25,9 +25,14 @@ a {
 	color: Ivory;
 }
 
-th, td {
-  border: 1px solid Ivory;
+table {
+  border-collapse: collapse;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
+
 
 
 
