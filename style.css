@@ -9,5 +9,9 @@ h1 {
 	color: CornflowerBlue;;
 }
 
+img {
+	object-fit: cover;
+}
+
 
 
