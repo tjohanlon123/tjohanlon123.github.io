@@ -10,7 +10,7 @@ h1 {
 }
 
 img {
-	object-fit: cover;
+	object-fit: contain;
 }
 
 
