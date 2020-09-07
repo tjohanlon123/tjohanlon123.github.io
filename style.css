@@ -1,8 +1,9 @@
+body {
+	background-color: CornflowerBlue;
+}
+
 h1 {
 	text-align: center;
 	background-color: Ivory;
 }
 
-p {
-	background-color: CornflowerBlue;
-}
