@@ -9,7 +9,7 @@ body {
 h1 {
 	text-align: center;
 	background-color: Ivory;
-	color: CornflowerBlue;;
+	color: CornflowerBlue;
 }
 
 img {
@@ -30,9 +30,11 @@ table {
 }
 
 table, th, td {
-  border: 1px solid Ivory;
+  border: 1px solid CornflowerBlue;
   margin-left: auto;
   margin-right: auto;
+  background-color: Ivory;
+  color: CornflowerBlue;
 }
 
 
