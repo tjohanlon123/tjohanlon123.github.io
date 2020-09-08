@@ -54,7 +54,7 @@ th{
 td.work {
 	background-image: url("figures/optics.JPG");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 297px 297px;
 }
 
 td.education {
@@ -65,19 +65,19 @@ td.education {
 td.about {
 	background-image: url("figures/me_casual.jpeg");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 297px 297px;
 }
 
 td.volunteer {
 	background-image: url("figures/rodeo.jfif");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 297px 297px;
 }
 
 td.code {
 	background-image: url("figures/code.jfif");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 297px 297px;
 }
 
 td.publication {
@@ -93,7 +93,7 @@ td.blank1 {
 td.linkedin {
 	background-image: url("figures/handshake.jpg");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 297px 297px;
 }
 
 td.blank2 {
