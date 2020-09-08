@@ -52,39 +52,39 @@ th{
 }
 
 td.work {
-	background-image: figure/optics.JPG;
+	background-image: url("figure/optics.JPG");
 }
 
 td.education {
-	background-image: "figure/Library750.JPG";
+	background-image: url("figure/Library750.JPG");
 }
 
 td.about {
-	background-image: "figure/me_casual.JPEG";
+	background-image: url("figure/me_casual.JPEG");
 }
 
 td.volunteer {
-	background-image: "figure/rodeo.jfif";
+	background-image: url("figure/rodeo.jfif");
 }
 
 td.code {
-	background-image: "figure/code.jfif";
+	background-image: url("figure/code.jfif");
 }
 
 td.publication {
-	background-image: "figure/books.jpg";
+	background-image: url("figure/books.jpg");
 }
 
 td.blank1 {
-	/*background-image: "figure/code.jfif"*/
+	/*background-image: url("figure/code.jfif")*/
 }
 
 td.linkedin {
-	background-image: "figure/handshake.jpg";
+	background-image: url("figure/handshake.jpg");
 }
 
 td.blank2 {
-	/*background-image: "figure/code.jfif"*/
+	/*background-image: url("figure/code.jfif")*/
 }
 
 
