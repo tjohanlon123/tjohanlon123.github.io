@@ -25,6 +25,10 @@ a {
 	color: Ivory;
 }
 
+a.table{
+	color: CornflowerBlue;
+}
+
 table {
   border-collapse: collapse;
 }
@@ -34,7 +38,6 @@ table, th, td {
   margin-left: auto;
   margin-right: auto;
   background-color: Ivory;
-  color: CornflowerBlue !important;
 }
 
 
