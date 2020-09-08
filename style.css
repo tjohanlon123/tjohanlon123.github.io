@@ -30,7 +30,9 @@ table {
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid Ivory;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
