@@ -32,21 +32,23 @@ a.links {
 table {
   border-collapse: collapse;
   table-layout: fixed ;
-  width: 99;
-  height: 99;
+  width: 99px;
+  height: 99px;
 }
 
 table, th, td {
   border: 5px solid CornflowerBlue;
+  margin-left: auto;
+  margin-right: auto;
   background-color: Ivory;
 }
 
 td {
-	width: 33 ;
+	width: 33px ;
 }
 
 th{
-	height: 33;
+	height: 33px;
 }
 
 
