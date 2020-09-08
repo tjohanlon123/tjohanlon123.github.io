@@ -53,6 +53,7 @@ th{
 
 td.work {
 	background-image: url("figures/optics.JPG");
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
@@ -63,16 +64,19 @@ td.education {
 
 td.about {
 	background-image: url("figures/me_casual.jpeg");
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
 td.volunteer {
 	background-image: url("figures/rodeo.jfif");
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
 td.code {
 	background-image: url("figures/code.jfif");
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
@@ -88,6 +92,7 @@ td.blank1 {
 
 td.linkedin {
 	background-image: url("figures/handshake.jpg");
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
