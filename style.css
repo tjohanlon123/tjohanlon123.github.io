@@ -86,7 +86,7 @@ td.publication {
 }
 
 td.blank1 {
-	background-image: url("figures/galaxy.PNG")
+	background-image: url("figures/galaxy.PNG");
 	background-repeat: no-repeat;
 	background-size: 297px 297px;
 }
@@ -98,7 +98,7 @@ td.linkedin {
 }
 
 td.blank2 {
-	background-image: url("figures/telescopes.jpg")
+	background-image: url("figures/telescopes.jpg");
 	background-repeat: no-repeat;
 	background-size: 297px 297px;
 }
