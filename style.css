@@ -53,38 +53,47 @@ th{
 
 td.work {
 	background-image: url("figures/optics.JPG");
+	background-size: auto;
 }
 
 td.education {
-	background-image: url("figures/Library750.JPG");
+	background-image: url("figures/Library750.jpg");
+	background-size: auto;
 }
 
 td.about {
-	background-image: url("figures/me_casual.JPEG");
+	background-image: url("figures/me_casual.jpeg");
+	background-size: auto;
 }
 
 td.volunteer {
 	background-image: url("figures/rodeo.jfif");
+	background-size: auto;
 }
 
 td.code {
 	background-image: url("figures/code.jfif");
+	background-size: auto;
 }
 
 td.publication {
 	background-image: url("figures/books.jpg");
+	background-size: auto;
 }
 
 td.blank1 {
-	/*background-image: url("figures/code.jfif")*/
+	/*background-image: url("figures/code.jfif")
+	background-size: auto;*/
 }
 
 td.linkedin {
 	background-image: url("figures/handshake.jpg");
+	background-size: auto;
 }
 
 td.blank2 {
-	/*background-image: url("figures/code.jfif")*/
+	/*background-image: url("figures/code.jfif")
+	background-size: auto;*/
 }
 
 
