@@ -52,27 +52,27 @@ th{
 }
 
 td.work {
-	background-image: "figure/optics.JPG"
+	background-image: figure/optics.JPG;
 }
 
 td.education {
-	background-image: "figure/Library750.JPG"
+	background-image: "figure/Library750.JPG";
 }
 
 td.about {
-	background-image: "figure/me_casual.JPEG"
+	background-image: "figure/me_casual.JPEG";
 }
 
 td.volunteer {
-	background-image: "figure/rodeo.jfif"
+	background-image: "figure/rodeo.jfif";
 }
 
 td.code {
-	background-image: "figure/code.jfif"
+	background-image: "figure/code.jfif";
 }
 
 td.publication {
-	background-image: "figure/books.jpg"
+	background-image: "figure/books.jpg";
 }
 
 td.blank1 {
@@ -80,7 +80,7 @@ td.blank1 {
 }
 
 td.linkedin {
-	background-image: "figure/handshake.jpg"
+	background-image: "figure/handshake.jpg";
 }
 
 td.blank2 {
