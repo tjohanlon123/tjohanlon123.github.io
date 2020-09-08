@@ -32,8 +32,8 @@ a.links {
 table {
   border-collapse: collapse;
   table-layout: fixed ;
-  width: 2673px;
-  height: 2673px;
+  width: 891px;
+  height: 891px;
 }
 
 table, th, td {
@@ -44,11 +44,11 @@ table, th, td {
 }
 
 td {
-	width: 891px ;
+	width: 297px ;
 }
 
 th{
-	height: 891px;
+	height: 297px;
 }
 
 
