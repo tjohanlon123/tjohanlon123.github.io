@@ -38,8 +38,6 @@ table {
 
 table, th, td {
   border: 5px solid CornflowerBlue;
-  margin-left: auto;
-  margin-right: auto;
   background-color: Ivory;
 }
 
