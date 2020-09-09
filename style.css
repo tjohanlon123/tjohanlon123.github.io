@@ -65,19 +65,19 @@ td.education {
 td.about {
 	background-image: url("figures/me_casual.jpeg");
 	background-repeat: no-repeat;
-	background-size: 350px 350px;
+	background-size: 297px 350px;
 }
 
 td.volunteer {
 	background-image: url("figures/rodeo2.jpg");
 	background-repeat: no-repeat;
-	background-size: 297px 297px;
+	background-size: 350px 350px;
 }
 
 td.code {
 	background-image: url("figures/code.jfif");
 	background-repeat: no-repeat;
-	background-size: 297px 297px;
+	background-size: 350px 350px;
 }
 
 td.publication {
