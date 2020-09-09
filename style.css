@@ -40,7 +40,7 @@ table, th, td {
   border: 5px solid CornflowerBlue;
   margin-left: auto;
   margin-right: auto;
-  background-color: CornflowerBlue;
+  background-color: Ivory;
 }
 
 td {
@@ -65,7 +65,7 @@ td.education {
 td.about {
 	background-image: url("figures/me_casual2.jpeg");
 	background-repeat: no-repeat;
-	background-size: 297px 350px;
+	background-size: 325px 350px;
 }
 
 td.volunteer {
